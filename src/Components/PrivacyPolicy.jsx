@@ -175,8 +175,8 @@ function PrivacyPolicy() {
               Silver Agent Support Team
               <br />
               Email:{" "}
-              <a href="mailto:silveragent.adambennett@gmail.com">
-                silveragent.adambennett@gmail.com
+              <a href="mailto:adambennett@silveragent.site">
+                adambennett@silveragent.site
               </a>
             </p>
           </section>
