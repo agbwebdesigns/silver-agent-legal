@@ -1,0 +1,29 @@
+.privacy-policy-content {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+}
+
+header {
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+  border: thin solid silver;
+  border-radius: 20px;
+}
+
+article {
+  border: thin solid silver;
+  border-radius: 20px;
+}
+
+article h2 {
+  margin-top: 30px;
+}
+
+section {
+  text-align: left;
+  margin-top: 20px;
+  padding: 20px;
+  border-bottom: thin solid rgb(221, 221, 221);
+}
