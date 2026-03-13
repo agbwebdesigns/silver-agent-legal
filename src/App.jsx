@@ -1,6 +1,6 @@
 import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
-import PrivacyPolicy from "./components/PrivacyPolicy.jsx";
-import TermsOfService from "./components/TermsOfService.jsx";
+import PrivacyPolicy from "./Components/PrivacyPolicy.jsx";
+import TermsOfService from "./Components/TermsOfService.jsx";
 import "./App.css";
 
 function App() {
